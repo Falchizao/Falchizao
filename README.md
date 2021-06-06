@@ -1,4 +1,4 @@
-# Hello World  👋, I'm Falchi, 20yo, From Brazil
+# Hello World  👋, I'm Falchi
 
 **⭕Currently working by myself at random projects**
 
