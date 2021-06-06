@@ -11,6 +11,6 @@ Contact me at:
 
 
  
- [![Twitter Badge](https://img.shields.io/badge/-@falchizao-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/falchizao)](https://twitter.com/falchizao) 
+ [![Twitter Badge](https://img.shields.io/badge/-@falchizao-6633cc?style=flat-square&labelColor=000cc&logo=twitter&logoColor=white&link=https://twitter.com/falchizao)](https://twitter.com/falchizao) 
  
  [![Gmail Badge](https://img.shields.io/badge/-marcelonavarro11md@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arcelonavarro11md@gmail.com)](mailto:arcelonavarro11md@gmail.com)
