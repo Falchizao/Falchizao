@@ -15,9 +15,9 @@ Contact me at:
  
  [![Gmail Badge](https://img.shields.io/badge/-marcelonavarro11md@gmail.com-6633cc??style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:marcelonavarro11md@gmail.com)](mailto:arcelonavarro11md@gmail.com)
  
-  [![Gmail Badge](https://img.shields.io/badge/-steamcommunity.com/id/falchi-6633cc??style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:steamcommunity.com/id/falchi)](steamcommunity.com/id/falchi)
+  [![Gmail Badge](https://img.shields.io/badge/-steamcommunity.com/id/falchi-6633cc??style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:steamcommunity.com/id/falchi)](steamcommunity.com/id/falchi) 
+ 
   
-  [![Twitter Badge](https://img.shields.io/badge/-Falchi#5437-6633cc?style=f?style=social&logo=appveyorColor=000cc&logo=twitter&logoColor=white&link=https://discord.gg)](https://discord.gg) 
-  
+   [![Gmail Badge](https://img.shields.io/badge/-Falchi#5437-6633cc??style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:https://discord.gg)](https://discord.gg)
   
  
