@@ -2,7 +2,7 @@
 
 **⭕Currently working by myself at random projects**
 
--   ⚫ ATM  I'm studying by **myself** at home
+-   ⚫ 20yo, ATM  I'm studying by **myself** at home
 -   ⚪ Systems Development Analysis Student -   
 -   📝 Right now I'm trying to improve myself learning: **Machine Learning/AI, Networking config, C lang, Python, HTML/CSS, DataBase/Cloud server config and Cybersecurity**. Feel free to add me on Steam or Discord to talk about anything: **Falchi#5437 or id/falchi**.
 
