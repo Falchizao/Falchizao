@@ -18,6 +18,6 @@ Contact me at:
   [![Gmail Badge](https://img.shields.io/badge/-steamcommunity.com/id/falchi-6633cc??style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:steamcommunity.com/id/falchi)](steamcommunity.com/id/falchi) 
  
   
-   [![Gmail Badge](https://img.shields.io/badge/-discord.gg/Falchi#5437-6633cc??style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:https://discord.gg)](https://discord.gg)
+  
   
  
