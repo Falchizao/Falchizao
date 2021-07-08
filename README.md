@@ -4,7 +4,8 @@
 
 -   ⚫ ATM  I'm studying by **myself** at home.
 -   ⚪ Systems Development Analysis Student. 
--   📝 Right now I'm trying to improve myself learning: **Machine Learning/AI, Networking config, C lang, Python, HTML/CSS, DataBase/Cloud server config and Cybersecurity**. Feel free to add me on Discord to talk about anything: **Falchi#0001**.
+-   📝 Right now I'm trying to improve myself.
+-   Feel free to add me on Discord to talk about anything: **Falchi#0001**.
 
 Contact me at:
 
