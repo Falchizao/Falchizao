@@ -9,7 +9,7 @@
 
 Contact me at:
 
-[![Gmail Badge](https://img.shields.io/badge/-Linkedin-6633cc??style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:https://marcelonavarro11md@gmail.com)](marcelonavarro11md@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Linkedin-6633cc??style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:https://https://www.linkedin.com/in/marcelo-falchi-navarro-32a755216/)](marcelonavarro11md@gmail.com)
 
  
 
