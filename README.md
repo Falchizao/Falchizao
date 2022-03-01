@@ -3,7 +3,6 @@
 **⭕Currently working by myself at random projects**
 
 -   ⚫ ATM  I'm studying by **myself** at home.
--
 -   📝 Right now I'm trying to improve myself and be a better person.
 
 
