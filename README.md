@@ -1,6 +1,6 @@
 # Hello World  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Marcelo Falchi
 
-**⭕Currently working by myself at random projects**
+**⭕Currently working as Java dev at GEW Tecnologia**
 
 -   ⚫ ATM  I'm studying by **myself** at home.
 -   📝 Right now I'm trying to improve myself and be a better person.
