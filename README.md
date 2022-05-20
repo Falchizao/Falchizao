@@ -39,7 +39,10 @@ Contact me at:
  <a href="https://insomnia.rest/download" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="eclipse" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="intellij" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="intellij" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/pt-br/" target="_blank"> <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" alt="visualstudiocode" width="40" height="40"/> </a>
+ 
+
  
  
  
@@ -48,7 +51,7 @@ Contact me at:
 <a href="https://spring.io/" target="_blank"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring" width="30" height="30"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://seeklogo.com/images/G/go-language-logo-1EEF01C7CF-seeklogo.com.png" alt="go" width="50" height="30"/> </a>
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" alt="csharp" width="50" height="30"/> </a> 
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" alt="csharp" width="30" height="30"/> </a> 
  
  
  
