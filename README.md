@@ -34,18 +34,8 @@ Contact me at:
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <a href="https://github.com/" target="_blank"> <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" alt="github" width="40" height="40"/> </a>
- 
+ <a href="https://bitbucket.org/" target="_blank"> <img src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" alt="bitbucket" width="40" height="40"/> </a> 
+ <a href="https://github.com/" target="_blank"> <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" alt="github" width="40" height="40"/></a> 
  <a href="https://gitlab.com/" target="_blank"> <img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" alt="gitlab" width="40" height="40"/> </a>
 
  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> </a>
