@@ -48,6 +48,7 @@ Contact me at:
 <a href="https://spring.io/" target="_blank"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring" width="30" height="30"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://seeklogo.com/images/G/go-language-logo-1EEF01C7CF-seeklogo.com.png" alt="go" width="50" height="30"/> </a>
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" alt="csharp" width="50" height="30"/> </a> 
  
  
  
