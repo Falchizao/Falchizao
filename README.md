@@ -20,7 +20,7 @@ Contact me at:
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" alt="postgres" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" alt="mongodb" width="100" height="40"/> </a>
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="sqlserver" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="sqlserver" width="60" height="40"/> </a> 
  
 
  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> </a>
