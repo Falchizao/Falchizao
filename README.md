@@ -41,7 +41,23 @@ Contact me at:
  <a href="https://github.com/" target="_blank"> <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" alt="github" width="40" height="40"/></a> 
  <a href="https://gitlab.com/" target="_blank"> <img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/> </a>
- <a href="https://insomnia.rest/download" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a> 
+ <a href="https://insomnia.rest/download" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vscode" width="40" height="40"/> </a>
+<a href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="eclipse" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="intellij" width="40" height="40"/> </a>
+<a href="https://theia-ide.org/" target="_blank"> <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="theia" width="40" height="40"/> </a>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> </a>
  
