@@ -24,7 +24,7 @@ Contact me at:
 <a href="https://www.docker.com/" target="_blank"> <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" alt="docker" width="45" height="30"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring" width="30" height="30"/> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://seeklogo.com/images/G/go-language-logo-1EEF01C7CF-seeklogo.com.png" alt="go" width="50" height="30"/> </a>
- <a href="https://ionicframework.com/" target="_blank"> <img src="https://seeklogo.com/images/I/ionic-logo-EB2DA45DF9-seeklogo.com.png" alt="ionic" width="50" height="30"/> </a>
+ <a href="https://ionicframework.com/" target="_blank"> <img src="https://seeklogo.com/images/I/ionic-logo-EB2DA45DF9-seeklogo.com.png" alt="ionic" width="60" height="30"/> </a>
  
  
  
