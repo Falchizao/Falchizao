@@ -21,8 +21,8 @@ Contact me at:
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" alt="postgres" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" alt="mongodb" width="100" height="40"/> </a>
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="sqlserver" width="60" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" alt="docker" width="60" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring" width="60" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" alt="docker" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring" width="40" height="40"/> </a>
  
  
  
