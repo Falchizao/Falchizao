@@ -24,3 +24,5 @@ Between the years 2022 and 2023, I participated in an extension project called "
 
 I am proactive and have good writing skills, making it easy for me to learn and adapt to a new work environment and team. I am eager to acquire new skills and further develop my previous experiences in the programming field。<br><br>
 </div>
+
+![image](https://github.com/Falchizao/Falchizao/assets/80293325/456d237a-3b59-4290-9b6b-c650d90912fd)
