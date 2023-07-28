@@ -13,7 +13,8 @@
 <div align="center">
   <h3>About me</h3>
 I am a web programmer graduated in systems from UTFPR。
-I graduated with honors in 2 and a half years from a 3-year course, passing sufficiency tests.
+  
+I graduated with honors in 2 and a half years from a 3-year course, passing sufficiency tests。
 
 I previously worked at a company focused on providing solutions for gas stations, gaining experience in the mobile area and initial exposure to payment machines。
 
