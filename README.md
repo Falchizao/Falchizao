@@ -14,6 +14,7 @@
    <img width="400px" src="./github-metrics.svg" />
 </p>
 
+---
 
 <div align="center">
   <h3>About me</h3>
@@ -31,3 +32,4 @@ I am proactive and have good writing skills, making it easy for me to learn and 
 </div>
 
 ![image](https://github.com/Falchizao/Falchizao/assets/80293325/456d237a-3b59-4290-9b6b-c650d90912fd)
+---
