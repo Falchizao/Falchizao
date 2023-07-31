@@ -24,7 +24,7 @@ I graduated with honors in 2 and a half years from a 3-year course, passing suff
 
 I previously worked at a company focused on providing solutions for gas stations, gaining experience in the mobile area and initial exposure to payment machines。
 
-Currently, I work as a programmer at Orientar Contadores Associados, in the Development department。
+Currently, I work as a programmer at Oniun, in the Development department。
 
 Between the years 2022 and 2023, I participated in an extension project called "DASS Scale" at the State University of West Paraná, with the scope of calculating and disseminating psychological results in the field of Medicine, providing support to professionals in the field, and gaining extensive experience in mobile application development。
 
