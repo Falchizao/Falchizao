@@ -34,9 +34,12 @@ I am proactive and have good writing skills, making it easy for me to learn and 
 ![image](https://github.com/Falchizao/Falchizao/assets/80293325/456d237a-3b59-4290-9b6b-c650d90912fd)
 ---
 
+
+
 <div align="center">
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://weather-icon.journeyad.repl.co/@rio?v=1" align="right"> 
 </div>
 
