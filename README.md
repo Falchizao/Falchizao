@@ -4,6 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=ff2167&height=300&section=header&text=I%20mainly%20use%20Golang,%20Flutter,%20Java%20and%20TypeScript.&fontSize=36&fontColor=ffffff)
   
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align='right' src='https://counter.seku.su/c302?' width='400px'>
 
@@ -14,7 +15,7 @@
    <img width="400px" src="./github-metrics.svg" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h3>About me</h3>
@@ -32,7 +33,7 @@ I am proactive and have good writing skills, making it easy for me to learn and 
 </div>
 
 ![image](https://github.com/Falchizao/Falchizao/assets/80293325/456d237a-3b59-4290-9b6b-c650d90912fd)
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
