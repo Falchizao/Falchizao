@@ -18,6 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+  
   <h3>About me</h3>
 I am a web programmer graduated in systems from UTFPR。
   
@@ -30,7 +31,7 @@ Currently, I work as a programmer at Oniun, in the Development department。
 Between the years 2022 and 2023, I participated in an extension project called "DASS Scale" at the State University of West Paraná, with the scope of calculating and disseminating psychological results in the field of Medicine, providing support to professionals in the field, and gaining extensive experience in mobile application development。
 
 I am proactive and have good writing skills, making it easy for me to learn and adapt to a new work environment and team. I am eager to acquire new skills and further develop my previous experiences in the programming field。<br><br>
-</div>
+
 
 ![image](https://github.com/Falchizao/Falchizao/assets/80293325/456d237a-3b59-4290-9b6b-c650d90912fd)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -38,9 +39,20 @@ I am proactive and have good writing skills, making it easy for me to learn and 
 
 
 <div align="center">
+
+
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img src="https://weather-icon.journeyad.repl.co/@rio?v=1" align="right"> 
 </div>
+
+  <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect with me</h2></summary>
+    <a href="https://www.linkedin.com/in/falchizao/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  </ul>
+</div>
+
+
 
