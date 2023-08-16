@@ -57,7 +57,7 @@ print("Connect with me")
 
 <div align="center">
   <a href="https://www.linkedin.com/in/falchizao/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
- <img src="https://osu-sig.vercel.app/card?user=falchi&mode=std&blur=6&animation=true&mini=true />
+ <img  align="left" src="https://osu-sig.vercel.app/card?user=falchi&mode=std&blur=6&animation=true&mini=true" />
 </div>
 
 
