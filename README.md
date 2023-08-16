@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src='https://counter.seku.su/cmoe?name=falchi' width="400px">
-  <img src="https://github-readme-stats.vercel.app/api?username=falchizao&show_icons=true&count_private=true&icon_color=fdd34f&title_color=f75e4f" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=falchizao&hide_border=true&show_icons=true&count_private=true&bg_color=90,3f9eff90,f687ff90&title_color=fff&text_color=fff&icon_color=f687ff&border_radius=0" width="400px"/>
    <img width="400px" src="./github-metrics.svg" />
 </p>
 <img src="https://metrics.lecoq.io/falchizao?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai&config.display=large" alt="Metrics">
