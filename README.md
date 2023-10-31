@@ -58,6 +58,7 @@ print("Connect with me")
  <img  align="left" src="https://osu-sig.vercel.app/card?user=falchi&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=130&flop=true" />
 
  <div align="left">  
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/348392013651247105)](https://discord.com/users/348392013651247105)
 </div>
 
