@@ -65,7 +65,7 @@ print("Connect with me")
 
 
   <a href="https://www.linkedin.com/in/falchizao/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://www.steamcommunity.com/id/falchi/" target="blank"><img align="left" src="https://github.com/notkoen/notkoen/assets/80293325/7bd92b0e-4a66-4a20-84a6-ddd03da1bdd9" alt="steam" height="50" width="50" /></a>
+  <a href="https://www.steamcommunity.com/id/falchi/" target="blank"><img align="left" src="https://github.com/notkoen/notkoen/assets/80293325/7bd92b0e-4a66-4a20-84a6-ddd03da1bdd9.png" alt="steam" height="50" width="50" /></a>
 
 </div>
 
