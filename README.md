@@ -24,15 +24,8 @@
 <div align="center">
   
   <h3>About me</h3>
-  
-I graduated with honors passing sufficiency tests。
-
-I previously worked at a company focused on providing solutions for gas stations, gaining experience in the mobile area and initial exposure to payment machines。
 
 Currently, I work in the Development department。
-
-Between the years 2022 and 2023, I participated in an extension project called "DASS Scale" at the State University of West Paraná, with the scope of calculating and disseminating psychological results in the field of Medicine, providing support to professionals in the field, and gaining extensive experience in mobile application development。
-
 I am proactive and have good writing skills, making it easy for me to learn and adapt to a new work environment and team. I am eager to acquire new skills and further develop my previous experiences in the programming field。<br><br>
 
 
