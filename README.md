@@ -26,6 +26,7 @@
   <h3>About me</h3>
 
 Currently, I work in the Development department。
+
 I am proactive and have good writing skills, making it easy for me to learn and adapt to a new work environment and team. I am eager to acquire new skills and further develop my previous experiences in the programming field。<br><br>
 
 
