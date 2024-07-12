@@ -25,9 +25,10 @@
   
   <h3>About me</h3>
 
-Currently, I work in the Development department。
+Currently, I work in the Development department。 
+Trying to migrate to infra.
 
-I am proactive and have good writing skills, making it easy for me to learn and adapt to a new work environment and team. I am eager to acquire new skills and further develop my previous experiences in the programming field。<br><br>
+I am proactive and have good writing skills, making it easy for me to learn and adapt to a new work environment and team. I am eager to acquire new skills and further develop my previous experiences in the field。<br><br>
 
 
 ![image](https://github.com/Falchizao/Falchizao/assets/80293325/456d237a-3b59-4290-9b6b-c650d90912fd)
@@ -48,20 +49,9 @@ I am proactive and have good writing skills, making it easy for me to learn and 
 print("Connect with me")
 ```
 
-<div align="center"> 
- <img  align="left" src="https://osu-sig.vercel.app/card?user=falchi&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=130&flop=true" />
-
- <div align="left">  
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/348392013651247105)](https://discord.com/users/348392013651247105)
-</div>
 
 
 
-  <a href="https://www.linkedin.com/in/falchizao/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://www.steamcommunity.com/id/falchi/" target="blank"><img align="right" src="https://github.com/notkoen/notkoen/assets/80293325/7bd92b0e-4a66-4a20-84a6-ddd03da1bdd9" alt="steam" height="50" width="50" /></a>
-
-</div>
 
 
 
